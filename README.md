@@ -1,2 +1,2 @@
-# coding-quotes
-Best coding quotes collection!
+# Tech Motivator
+Daily coding quotes to motivate you to write code.
