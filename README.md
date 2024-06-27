@@ -150,3 +150,93 @@ Daily coding quotes to motivate you to write code.
 "When I wrote this code, only God and I understood what I did. Now only God knows." — Anonymous
 
 "Programming is like sex. One mistake and you have to support it for the rest of your life." — Michael Sinz
+
+"Bad code can always be improved. Bad design stays bad." — Robert C. Martin
+
+"There is no substitute for making things interesting." — Donald E. Knuth
+
+"In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all." — Jon Bentley
+
+"The best way to predict the future is to create it." — Peter Drucker
+
+"The joy of coding is the joy of creation." — Unknown
+
+"Programs should be written and polished until they acquire publication quality." — Niklaus Wirth
+
+"A program that produces incorrect results twice as fast is infinitely slower." — John Osterhout
+
+"Coding is today’s language of creativity. All our children deserve a chance to become creators instead of consumers of computer science." — Maria Klawe
+
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
+
+"To understand a program, you must become both the machine and the program." — Alan J. Perlis
+
+"Before software can be reusable, it first has to be usable." — Ralph Johnson
+
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code." — Dan Salomon
+
+"Your most unhappy customers are your greatest source of learning." — Bill Gates
+
+"Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else." — Eagleson’s Law
+
+"Make it work, make it right, make it fast." — Kent Beck
+
+"The best code is no code at all." — Jeff Atwood
+
+"Truth can only be found in one place: the code." — Robert C. Martin
+
+"The act of writing and reasoning about code sharpens your ability to think." — Douglas Crockford
+
+"A good programmer looks both ways before crossing a one-way street." — Doug Linder
+
+"In order to understand recursion, one must first understand recursion." — Unknown
+
+"Code should run as fast as necessary, but no faster; something important is always traded away to increase speed." — Richard E. Pattis
+
+"When debugging, novices insert corrective code; experts remove defective code." — Richard Pattis
+
+"Programming isn’t about what you know; it’s about what you can figure out." — Chris Pine
+
+"Optimism is an occupational hazard of programming: feedback is the treatment." — Kent Beck
+
+"If you don’t fail at least 90% of the time, you’re not aiming high enough." — Alan Kay
+
+"The best software developers are the ones who understand their limitations." — Unknown
+
+"Software and cathedrals are much the same – first we build them, then we pray." — Unknown
+
+"Remember that there is no code faster than no code." — Taligent’s tenth law of simplicity
+
+"When you see code, think of it as a moving picture – it’s like making a film." — Unknown
+
+"The only thing worse than writing code that doesn’t work is writing code that works really slowly." — Unknown
+
+"A problem well stated is a problem half solved." — Charles Kettering
+
+"Focus on the solution, not the problem." — Unknown
+
+"The biggest mistake you can make is to believe that you are working for someone else." — Earl Nightingale
+
+"Every time you write a line of code, you have the opportunity to make the world a better place." — Unknown
+
+"Computers are good at following instructions, but not at reading your mind." — Donald Knuth
+
+"The best thing about a boolean is even if you are wrong, you are only off by a bit." — Unknown
+
+"The most powerful tool we have as developers is automation." — Scott Hanselman
+
+"Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE." — Joss Whedon
+
+"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
+
+"There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies." — Tony Hoare
+
+"Coding is not just code, that is a live thing to serve everyone!" — Ming Song
+
+"The most important thing in communication is to hear what isn’t being said." — Peter Drucker
+
+"The computer was born to solve problems that did not exist before." — Bill Gates
+
+"Coding is like a box of chocolates. You never know what you’re gonna get." — Unknown
+
+"If you automate a mess, you get an automated mess." — Rod Michael
