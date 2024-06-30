@@ -8,10 +8,12 @@ Daily coding quotes to motivate you to write code.
 ```
 "First, solve the problem. Then, write the code." — John Johnson
 ```
+```
 "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
-
+```
+```
 "Experience is the name everyone gives to their mistakes." — Oscar Wilde
-
+```
 "In order to be irreplaceable, one must always be different." — Coco Chanel
 
 "Java is to JavaScript what car is to Carpet." — Chris Heilmann
