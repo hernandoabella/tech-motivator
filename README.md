@@ -17,8 +17,9 @@ Daily coding quotes to motivate you to write code.
 ```
 "In order to be irreplaceable, one must always be different." — Coco Chanel
 ```
+```
 "Java is to JavaScript what car is to Carpet." — Chris Heilmann
-
+```
 "Code never lies, comments sometimes do." — Ron Jeffries
 
 "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
