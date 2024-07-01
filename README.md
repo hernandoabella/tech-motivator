@@ -20,8 +20,9 @@ Daily coding quotes to motivate you to write code.
 ```
 "Java is to JavaScript what car is to Carpet." — Chris Heilmann
 ```
+```
 "Code never lies, comments sometimes do." — Ron Jeffries
-
+```
 "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
 
 "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
