@@ -14,8 +14,9 @@ Daily coding quotes to motivate you to write code.
 ```
 "Experience is the name everyone gives to their mistakes." — Oscar Wilde
 ```
+```
 "In order to be irreplaceable, one must always be different." — Coco Chanel
-
+```
 "Java is to JavaScript what car is to Carpet." — Chris Heilmann
 
 "Code never lies, comments sometimes do." — Ron Jeffries
