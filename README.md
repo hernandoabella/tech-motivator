@@ -29,18 +29,24 @@ Daily coding quotes to motivate you to write code.
 ```
 "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
 ```
+```
 "Simplicity is the soul of efficiency." — Austin Freeman
-
+```
+```
 "Talk is cheap. Show me the code." — Linus Torvalds
-
+```
+```
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
-
+```
+```
 "Testing leads to failure, and failure leads to understanding." — Burt Rutan
-
+```
+```
 "The best error message is the one that never shows up." — Thomas Fuchs
-
+```
+```
 "A language that doesn’t affect the way you think about programming is not worth knowing." — Alan J. Perlis
-
+```
 "Programming is the art of algorithm design and the craft of debugging errant code." — Ellen Ullman
 
 "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." — Antoine de Saint-Exupery
